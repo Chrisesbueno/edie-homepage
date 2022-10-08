@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://chrisesbueno.github.io/edie-homepage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/Euce9B2dNzX7cgOYhzLb">
       Solution
     </a>
     <span> | </span>
@@ -34,12 +34,12 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/edie-homepage/main/DesktopVersion.png)
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/edie-homepage/main/MobileVersion.png)
 
 - Where can I see your demo?
-  
+  <h3><a href="https://chrisesbueno.github.io/edie-homepage/">Demo</a></h3>
 - What was your experience?
   <h3>I wanted to make a scrollable menu on one side vertically only in the middle, I did it but after a lot of stress</h3>
 - What have you learned/improved?
